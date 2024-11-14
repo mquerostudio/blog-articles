@@ -1,2 +1,6 @@
-idf_component_register(SRCS "lv_port_disp.c" "main.c"
-                    INCLUDE_DIRS ".")
+idf_component_register(SRCS
+    "main.c"
+    "lv_port_disp.c"
+    "i2c_driver.c"
+    "lv_port_indev.c"
+    INCLUDE_DIRS ".")
