@@ -1,6 +1,6 @@
 /**
- * @file lv_port_disp.h
- * @brief Display interface configuration header file
+ * @file lv_port_disp.c
+ * @brief Display interface configuration file
  * @author MQuero
  * @see mquero.com
  */
