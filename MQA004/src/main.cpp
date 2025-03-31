@@ -304,7 +304,7 @@ static void abs_btn_event_cb(lv_event_t *e)
 
 void create_ui()
 {
-  // Set up a circular display with black background
+  // Set up a display with black background
   lv_obj_t *main_screen = lv_scr_act();
   lv_obj_set_style_bg_color(main_screen, lv_color_black(), 0);
 
